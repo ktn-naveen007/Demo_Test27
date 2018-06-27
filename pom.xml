@@ -39,6 +39,9 @@
 						</goals>
 					</execution>
 				</executions>
+				 <configuration>
+          <mainClass>com.sample.BasicScripts.Addition</mainClass>
+          </configuration>
 			</plugin>
 		</plugins>
 	</build>
